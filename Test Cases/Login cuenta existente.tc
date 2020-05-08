@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login cuenta existente</name>
+   <tag></tag>
+   <comment>Ejecutando Rappi
+La app se ejecuto correctamente
+Tap icono perfil
+Tap datos de perfil
+Introducir nombre de usuario con caracteres especiales
+Tap &quot;Guardar&quot;</comment>
+   <testCaseGuid>fa1f5f12-1c1e-484a-8ef3-d9c0d1948fd2</testCaseGuid>
+</TestCaseEntity>
